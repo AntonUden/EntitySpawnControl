@@ -1,0 +1,5 @@
+name: EntitySpawnControl
+main: net.zeeraa.entityspawncontrol.EntitySpawnControl
+description: Prevent certain entities from spawning
+version: 1.0
+api-version: 1.13

@@ -1,0 +1,4 @@
+debug: false
+
+blocked-entities:
+    PIG: false
